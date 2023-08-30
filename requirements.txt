@@ -4,3 +4,4 @@ pandas
 geopandas
 geopy
 folium
+streamlit_folium 
